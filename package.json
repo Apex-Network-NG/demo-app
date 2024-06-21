@@ -9,7 +9,6 @@
     "lint": "next lint",
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix": "prettier --write --ignore-path .gitignore .",
-    "prepare": "husky",
     "pre-commit": "lint-staged"
   },
   "dependencies": {
